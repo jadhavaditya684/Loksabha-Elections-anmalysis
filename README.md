@@ -1,5 +1,5 @@
 🔹 Project Overview
-This project presents an interactive Power BI dashboard analyzing **India Election Results**. The dashboard provides insights into vote counts, seat distribution, turnout trends, party performance, and geographic strongholds, helping identify electoral patterns and opportunities for political strategy and governance insights.
+This project presents an interactive Power BI dashboard analyzing India Election Results. The dashboard provides insights into vote counts, seat distribution, turnout trends, party performance, and geographic strongholds, helping identify electoral patterns and opportunities for political strategy and governance insights.
 
 🛠 Tech Stack
 
@@ -28,7 +28,7 @@ Dataset containing election details with fields such as:
 * Turnout Insights:** Voter participation trends across states and constituencies
 
 🎯Goal
-To build a comprehensive and interactive visualization of India’s election results that supports **data-driven decision-making** in campaign planning, governance, and voter engagement.
+To build a comprehensive and interactive visualization of India’s election results that supports data-driven decision-making in campaign planning, governance, and voter engagement.
 
 ❓ Key Questions Addressed
 
@@ -40,7 +40,7 @@ To build a comprehensive and interactive visualization of India’s election res
 
 💡 **Business / Political Impact
 
-* Strategic Planning:** Identifies swing constituencies and voter behavior patterns.
-* Performance Tracking:** Compares party performance across election cycles.
+* Strategic Planning: Identifies swing constituencies and voter behavior patterns.
+* Performance Tracking: Compares party performance across election cycles.
 * Voter Engagement: Highlights turnout trends to focus mobilization strategies.
 * Geographic Expansion:Provides insights into regional strongholds and growth opportunities.
